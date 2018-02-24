@@ -1,8 +1,8 @@
 THE MONEY MANAGER
 
--This application is to used to manage daily expense of a user and presenting it graph Vise and GridVise.
--This Application is created using ASP.NET using C# in Visual Studio 2017.
--For Database I have used SQL in MS-MSQL SERVER 2017
+-This application is to be used for the purpose of maintaining daily expenditure and income.
+-This application is created using ASP.NET using C# in Visual Studio 2017.
+-For database I have used SQL in MS-MSQL SERVER 2017
 
 
 GETTING STARTED
@@ -24,7 +24,7 @@ INSTALLING
 1)Open the MS-SQL SERVER MANAGEMENT STUDIO 2017
 2)Connect with the defualt server (i.e. SQLEXPRESS)
 3)Import the SQL Script from the Folder with the name MoneyManagerDB.
-4)Double Click the MoneyManager.sln - it opens in the visual studio installed
+4)Double Click the MoneyManager.sln (it will open in the visual studio)
 
 
 AUTHOR
