@@ -1,9 +1,9 @@
 THE MONEY MANAGER
 
--This application is to be used for the purpose of maintaining daily expenditure and income.
+-This application helps in maintaining daily expenditure and income using graphs.
 -This application is created using ASP.NET using C# in Visual Studio 2017.
--For database I have used SQL in MS-MSQL SERVER 2017
-
+-I have used SQL for the database in MS-SQL 2017.
+-Real Time(Requires Internet Connectivity) money exchange rates.
 
 GETTING STARTED
 
@@ -12,10 +12,10 @@ GETTING STARTED
 
 PREREQUISITES
 
--Working System : keyboard, mouse, monitor
+-Working PC with Windows OS.
 -Browser : Firefox, Chrome (Recommended).
--Internet.
--Visual Studio 2017.
+-Internet Connection.
+-Visual Studio 2017(Recommended).
 -MS-SQL SERVER MANAGEMENT STUDIO 2017 with default server name (i.e. SQLEXPRESS).
 
 
