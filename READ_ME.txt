@@ -1,7 +1,7 @@
 THE MONEY MANAGER
 
 -This application helps in maintaining daily expenditure and income using graphs.
--This application is created using ASP.NET using C# in Visual Studio 2017.
+-This application is created with ASP.NET using C# in Visual Studio 2017.
 -I have used SQL for the database in MS-SQL 2017.
 -Real Time(Requires Internet Connectivity) money exchange rates.
 
