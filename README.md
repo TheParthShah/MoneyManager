@@ -26,15 +26,6 @@ INSTALLING
 3)Import the SQL Script from the Folder with the name MoneyManagerDB.
 4)Double Click the MoneyManager.sln (it will open in the visual studio)
 
-LOGIN
--Username = admin
--Password = admin
-
 AUTHOR
 
 -Parth Kinjal Shah
-
-CONTACT ME AT 
-
--Mobile Number : +919409027942
--Email Id : searchparth@gmail.com
