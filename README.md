@@ -12,20 +12,19 @@ GETTING STARTED
 
 PREREQUISITES
 
--Working PC with Windows OS.
--Browser : Firefox, Chrome (Recommended).
--Internet Connection.
--Visual Studio 2017(Recommended).
--MS-SQL SERVER MANAGEMENT STUDIO 2017 with default server name (i.e. SQLEXPRESS).
+-Working PC with Windows OS.<br>
+-Browser : Firefox, Chrome (Recommended).<br>
+-Internet Connection.<br>
+-Visual Studio 2017(Recommended).<br>
+-MS-SQL SERVER MANAGEMENT STUDIO 2017 with default server name (i.e. SQLEXPRESS).<br>
 
 
 INSTALLING
 
-1)Open the MS-SQL SERVER MANAGEMENT STUDIO 2017
-2)Connect with the defualt server (i.e. SQLEXPRESS)
-3)Import the SQL Script from the Folder with the name MoneyManagerDB.
-4)Double Click the MoneyManager.sln (it will open in the visual studio)
+1)Open the MS-SQL SERVER MANAGEMENT STUDIO 2017<br>
+2)Connect with the defualt server (i.e. SQLEXPRESS)<br>
+3)Import the SQL Script from the Folder with the name MoneyManagerDB.<br>
+4)Double Click the MoneyManager.sln (it will open in the visual studio)<br>
 
 AUTHOR
-
 -Parth Kinjal Shah
